@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-  ifstream in("example.txt");
+  ifstream in;
   char first = ' ', last = ' ', current;
   
 
